@@ -1,5 +1,5 @@
 # LeetCode
 LeetCode Solutions
 
-by
+Author:-
 Vivek Gupta
